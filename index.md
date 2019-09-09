@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Luxside
 
-You can use the [editor on GitHub](https://github.com/vityalimbaev5011/Private-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[English version](## Privacy policy mobile app Luxside)
+## Политика конфиденциальности мобильного приложения Luxside
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Этот документ описывает условия получения и использования информации мобильным приложением Luxside.
 
-### Markdown
+Мы очень серьезно подходим к политике конфиденциальности.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Наше приложение PhotoFax (ФотоФакс):
 
-```markdown
-Syntax highlighted code block
+* Не собирает никакой пользовательской информации.
+* Содержит встроенные покупки.
+* Требует разрешение на использование фотокамеры android.permission.CAMERA. Камера используется приложением только для реализации основной функции Luxside — для получения фотоснимков c фронтальной камеры устройства.
+* Требует разрешение на доступ к пямяти устройства android.permission.WRITE_EXTERNAL_STORAGE. Нашему приложению необходим доступ к памяти устройсва для сохранения фотографий.
+* Анонимная информация, которую мы получаем о пользователях от сторонних сервисов, таких как Google Play и других включает в себя: информацию об установке (например, тип операционной системы и номер версии приложения) и информацию об устройстве (аппаратная модель и версия операционной системы)
 
-# Header 1
-## Header 2
-### Header 3
+Все данные, которые мы собираем используются только для внутреннего анализа и исследований в целях улучшения сервиса.
 
-- Bulleted
-- List
+Мы не несем ответственность за последствия использования Luxside, возникновения сбоев в устройствах или их поломки.
 
-1. Numbered
-2. List
+Наша политика конфиденциальности может меняться время от времени. Мы будем размещать какие-либо изменения Политики конфиденциальности на этой странице.
 
-**Bold** and _Italic_ and `Code` text
+Если у Вас есть какие-то вопросы относительно нашей политики безопасности, пожалуйста, пишите или звоните нам:
+luxsideapp@gmail.com
 
-[Link](url) and ![Image](src)
-```
+## Privacy policy mobile app Luxside
+This document describes the conditions for obtaining and using information mobile app Luxside.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We take user’s privacy seriously.
 
-### Jekyll Themes
+PhotoFax:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vityalimbaev5011/Private-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Does not collect any user information.
+* Contains in-app purchases.
+* Requires permission to use the android camera.permission.CAMERA. The camera app is used only for the realization of the main functions Luxside — to obtain the photographs c the front camera of the device.
+* Requires permission to access the fifth android device.permission.WRITE_EXTERNAL_STORAGE. Our app needs access to your device's memory to save photos.
+* Anonymous information we receive about users from third-party services such as Google Play and others includes: installation information (such as operating system type and application version number) and device information (hardware model and operating system version)
 
-### Support or Contact
+All data that we collect is used for internal analysis and research to improve our products and make it better for you.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are not responsible for the use of our applications of failures in devices or breakage.
+
+Our Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page.
+
+If you have any questions or concerns about our privacy policies, please contact us:
+luxsideapp@gmail.com
