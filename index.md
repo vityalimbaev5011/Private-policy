@@ -1,13 +1,12 @@
 # Luxside
 
-[English version](## Privacy policy mobile app Luxside)
 ## Политика конфиденциальности мобильного приложения Luxside
 
 Этот документ описывает условия получения и использования информации мобильным приложением Luxside.
 
 Мы очень серьезно подходим к политике конфиденциальности.
 
-Наше приложение PhotoFax (ФотоФакс):
+Наше приложение Luxside:
 
 * Не собирает никакой пользовательской информации.
 * Содержит встроенные покупки.
@@ -29,7 +28,7 @@ This document describes the conditions for obtaining and using information mobil
 
 We take user’s privacy seriously.
 
-PhotoFax:
+Luxside:
 
 Does not collect any user information.
 * Contains in-app purchases.
